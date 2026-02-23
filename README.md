@@ -34,21 +34,20 @@
 ## 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Angel-Saul&show_icons=true&count_private=true&include_all_commits=true&cache_seconds=1800" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Angel-Saul&theme=dracula" alt="Estadísticas de Angel-Saul" />
 </p>
 
 ## 💻 Lenguajes Más Usados
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Angel-Saul&layout=compact&cache_seconds=1800" />
+  <img src="https://metrics.lecoq.io/Angel-Saul?base=0&plugin_languages=1&plugin_languages_sections=most-used&plugin_languages_details=percentage&theme=dracula" />
 </p>
 
 ## 🔥 Racha de Contribuciones
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Angel-Saul&cache_seconds=1800" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Angel-Saul&theme=dracula" alt="Racha de contribuciones" />
 </p>
----
 
 ## 📫 Conecta conmigo
 
