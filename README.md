@@ -9,7 +9,14 @@
 - 🔧 Experiencia utilizando Git para control de versiones
 - 🚀 Enfocado en mejorar continuamente mis habilidades técnicas
 
-## 📊 GitHub Analytics
+## 📊 Estadísticas de GitHub
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Angel-Saul&show_icons=true&theme=tokyonight)
+
+## 🔥 Racha de Contribuciones
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Angel-Saul&theme=tokyonight)
+
+<## 💻 Lenguajes Más Usados
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Angel-Saul&layout=compact&theme=tokyonight)
