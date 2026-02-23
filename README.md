@@ -40,7 +40,7 @@
 ## 💻 Lenguajes Más Usados
 
 <p align="center">
-  <img src="https://metrics.lecoq.io/Angel-Saul?base=0&plugin_languages=1&plugin_languages_sections=most-used&plugin_languages_details=percentage&theme=dracula" />
+  <img src="https://github-readme-stats-tau-six.vercel.app/api/top-langs/?username=Angel-Saul&layout=compact&theme=dracula" alt="Lenguajes de Angel-Saul" />
 </p>
 
 ## 🔥 Racha de Contribuciones
