@@ -1,22 +1,59 @@
-## Hola, soy Angel Saúl 👋
+# 👋 Hola, soy Angel Saúl
 
-# Sobre mi:
-- 💻 Apasionado por Linux y el ecosistema open source
-- 🎨 Interés en desarrollo FrontEnd y experiencia de usuario
-- 🗄️ Manejo de bases de datos MySQL
-- ☕ Fundamentos en programación con Java
-- 🌐 En proceso de aprendizaje de JavaScript
-- 🔧 Experiencia utilizando Git para control de versiones
-- 🚀 Enfocado en mejorar continuamente mis habilidades técnicas
+🎓 Estudiante de Desarrollo de Software Multiplataforma  
+💻 Apasionado por la tecnología, Linux y el aprendizaje continuo  
+
+---
+
+## 🚀 Sobre mí
+
+- 💻 Apasionado por Linux y el ecosistema open source  
+- 🎨 Interés en desarrollo FrontEnd y experiencia de usuario  
+- 🗄️ Manejo de bases de datos MySQL  
+- ☕ Fundamentos en programación con Java  
+- 🌐 Actualmente aprendiendo JavaScript  
+- 🔧 Uso de Git para control de versiones  
+- 🚀 Enfocado en mejorar continuamente mis habilidades técnicas  
+
+---
+
+## 🛠️ Tecnologías y Herramientas
+
+<p>
+  <img src="https://skillicons.dev/icons?i=linux" />
+  <img src="https://skillicons.dev/icons?i=git" />
+  <img src="https://skillicons.dev/icons?i=mysql" />
+  <img src="https://skillicons.dev/icons?i=java" />
+  <img src="https://skillicons.dev/icons?i=javascript" />
+  <img src="https://skillicons.dev/icons?i=html" />
+  <img src="https://skillicons.dev/icons?i=css" />
+</p>
+
+---
 
 ## 📊 Estadísticas de GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Angel-Saul&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Angel-Saul&show_icons=true&count_private=true&include_all_commits=true&cache_seconds=1800" />
+</p>
+
+## 💻 Lenguajes Más Usados
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Angel-Saul&layout=compact&cache_seconds=1800" />
+</p>
 
 ## 🔥 Racha de Contribuciones
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Angel-Saul&theme=tokyonight)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Angel-Saul&cache_seconds=1800" />
+</p>
+---
 
-<## 💻 Lenguajes Más Usados
+## 📫 Conecta conmigo
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Angel-Saul&layout=compact&theme=tokyonight)
+- 📧 Email: 240196@utxicotepec.edu.mx
+
+---
+
+⭐ Siempre abierto a aprender, colaborar y desarrollar nuevos proyectos.
